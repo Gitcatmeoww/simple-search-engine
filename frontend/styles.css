@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#heading {
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+#searchBar {
+    width: 50%;
+    height: 3em;
+    border-radius: 5px;
+}
+
+::placeholder {
+    padding-left: 10px;
+    font-size: 14px;
+}
+
+#submitButton {
+    margin-top: 15px;
+    width: 7em;
+    height: 2.5em;
+    border-radius: 3px;
+}
+
+#searchResult {
+    margin-top: 7em;
+    text-align: center;
+}
